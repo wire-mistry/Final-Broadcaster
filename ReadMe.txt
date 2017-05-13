@@ -12,4 +12,4 @@ CooCox IDE
 PuTTy
 
 
-/************** Please modify the printf statements with semihosting for debuggin purposes else ignore them strieght forward************/
+/************** Please modify the printf statements with semihosting for debuggin purposes else ignore them straight forward************/
